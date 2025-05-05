@@ -60,8 +60,18 @@ namespace Pilas
 
         private void btnBuscar_Click(object sender, EventArgs e)
         {
-            if (pi.Buscar(int.Parse(txtNuevo.Text))) MessageBox.Show("Existe el dato");
-            else MessageBox.Show("No existe el dato");          
+            try
+            {
+                if (pi.Buscar(int.Parse(txtNuevo.Text))) MessageBox.Show("Existe el dato");
+                else MessageBox.Show("No existe el dato");
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Campo vacío, digite valor a buscar");
+            }
+                
+            
+                    
         }
 
         private void btnModificar_Click(object sender, EventArgs e)
@@ -88,6 +98,8 @@ namespace Pilas
         private void btLimpiar_Click(object sender, EventArgs e)
         {
             pi.limpiar();
+            lstBox.Items.Clear();
+            pi.Listado(lstBox);
         }
     }
 }

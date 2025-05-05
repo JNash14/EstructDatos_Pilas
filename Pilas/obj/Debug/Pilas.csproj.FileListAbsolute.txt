@@ -18,3 +18,13 @@ C:\Users\JNash\Desktop\Sem5 ED\Pilas\Pilas\obj\Debug\Pilas.csproj.GenerateResour
 C:\Users\JNash\Desktop\Sem5 ED\Pilas\Pilas\obj\Debug\Pilas.csproj.CoreCompileInputs.cache
 C:\Users\JNash\Desktop\Sem5 ED\Pilas\Pilas\obj\Debug\Pilas.exe
 C:\Users\JNash\Desktop\Sem5 ED\Pilas\Pilas\obj\Debug\Pilas.pdb
+C:\Users\JNash\Documents\Proyectos C#\2025_I (Estructura de Datos)\Teoria\SEMANA5\Pilas\Pilas\bin\Debug\Pilas.exe.config
+C:\Users\JNash\Documents\Proyectos C#\2025_I (Estructura de Datos)\Teoria\SEMANA5\Pilas\Pilas\bin\Debug\Pilas.exe
+C:\Users\JNash\Documents\Proyectos C#\2025_I (Estructura de Datos)\Teoria\SEMANA5\Pilas\Pilas\bin\Debug\Pilas.pdb
+C:\Users\JNash\Documents\Proyectos C#\2025_I (Estructura de Datos)\Teoria\SEMANA5\Pilas\Pilas\obj\Debug\Pilas.csproj.AssemblyReference.cache
+C:\Users\JNash\Documents\Proyectos C#\2025_I (Estructura de Datos)\Teoria\SEMANA5\Pilas\Pilas\obj\Debug\Pilas.Form1.resources
+C:\Users\JNash\Documents\Proyectos C#\2025_I (Estructura de Datos)\Teoria\SEMANA5\Pilas\Pilas\obj\Debug\Pilas.Properties.Resources.resources
+C:\Users\JNash\Documents\Proyectos C#\2025_I (Estructura de Datos)\Teoria\SEMANA5\Pilas\Pilas\obj\Debug\Pilas.csproj.GenerateResource.cache
+C:\Users\JNash\Documents\Proyectos C#\2025_I (Estructura de Datos)\Teoria\SEMANA5\Pilas\Pilas\obj\Debug\Pilas.csproj.CoreCompileInputs.cache
+C:\Users\JNash\Documents\Proyectos C#\2025_I (Estructura de Datos)\Teoria\SEMANA5\Pilas\Pilas\obj\Debug\Pilas.exe
+C:\Users\JNash\Documents\Proyectos C#\2025_I (Estructura de Datos)\Teoria\SEMANA5\Pilas\Pilas\obj\Debug\Pilas.pdb
